@@ -22,7 +22,7 @@
     <meta name="description" content="前言相信不少小伙伴都在使用 GitHub Pages 提供的免费静态网站托管来搭建自己的博客，但是因为特殊原因，使用 GitHub Pages 搭建的博客在国内访问速度极慢，因此很多小伙伴只能转战国内付费的服务器和 CDN。 然而，国内的CDN都需要域名先备案，不然无法使用。使用CloudFlare的CDN服务在国内的访问速度也并不理想。终于，我找到了相对完美的解决方案，话不多说先上图：  博客地">
 <meta property="og:type" content="article">
 <meta property="og:title" content="用成本最低的方式解决hexo博客部署在Gihub_Pages在国内访问慢的问题">
-<meta property="og:url" content="http://example.com/2024/08/17/%E7%94%A8%E6%88%90%E6%9C%AC%E6%9C%80%E4%BD%8E%E7%9A%84%E6%96%B9%E5%BC%8F%E8%A7%A3%E5%86%B3hexo%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2%E5%9C%A8Gihub-Pages%E5%9C%A8%E5%9B%BD%E5%86%85%E8%AE%BF%E9%97%AE%E6%85%A2%E7%9A%84%E9%97%AE%E9%A2%98/index.html">
+<meta property="og:url" content="https://blog.ningh.net/2024/08/17/%E7%94%A8%E6%88%90%E6%9C%AC%E6%9C%80%E4%BD%8E%E7%9A%84%E6%96%B9%E5%BC%8F%E8%A7%A3%E5%86%B3hexo%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2%E5%9C%A8Gihub-Pages%E5%9C%A8%E5%9B%BD%E5%86%85%E8%AE%BF%E9%97%AE%E6%85%A2%E7%9A%84%E9%97%AE%E9%A2%98/index.html">
 <meta property="og:site_name" content="Hexo">
 <meta property="og:description" content="前言相信不少小伙伴都在使用 GitHub Pages 提供的免费静态网站托管来搭建自己的博客，但是因为特殊原因，使用 GitHub Pages 搭建的博客在国内访问速度极慢，因此很多小伙伴只能转战国内付费的服务器和 CDN。 然而，国内的CDN都需要域名先备案，不然无法使用。使用CloudFlare的CDN服务在国内的访问速度也并不理想。终于，我找到了相对完美的解决方案，话不多说先上图：  博客地">
 <meta property="og:locale" content="zh_CN">
@@ -81,7 +81,7 @@
   <script id="fluid-configs">
     var Fluid = window.Fluid || {};
     Fluid.ctx = Object.assign({}, Fluid.ctx)
-    var CONFIG = {"hostname":"example.com","root":"/","version":"1.9.8","typing":{"enable":true,"typeSpeed":70,"cursorChar":"_","loop":false,"scope":[]},"anchorjs":{"enable":true,"element":"h1,h2,h3,h4,h5,h6","placement":"left","visible":"hover","icon":""},"progressbar":{"enable":true,"height_px":3,"color":"#29d","options":{"showSpinner":false,"trickleSpeed":100}},"code_language":{"enable":true,"default":"TEXT"},"copy_btn":true,"image_caption":{"enable":true},"image_zoom":{"enable":true,"img_url_replace":["",""]},"toc":{"enable":true,"placement":"right","headingSelector":"h1,h2,h3,h4,h5,h6","collapseDepth":0},"lazyload":{"enable":true,"loading_img":"https://picgo.ningh.net/images_hgxk/img/loading.gif","onlypost":false,"offset_factor":2},"web_analytics":{"enable":true,"follow_dnt":true,"baidu":null,"google":{"measurement_id":null},"tencent":{"sid":null,"cid":null},"leancloud":{"app_id":"zDKvyl7ruxUnQEVMBKmH1yzJ-gzGzoHsz","app_key":"bOZSobHb21Fmgqaba6nS9NZl","server_url":"https://zdkvyl7r.lc-cn-n1-shared.com","path":"window.location.pathname","ignore_local":false},"umami":{"src":null,"website_id":null,"domains":null,"start_time":"2024-01-01T00:00:00.000Z","token":null,"api_server":null}},"search_path":"/local-search.xml","include_content_in_search":true};
+    var CONFIG = {"hostname":"blog.ningh.net","root":"/","version":"1.9.8","typing":{"enable":true,"typeSpeed":70,"cursorChar":"_","loop":false,"scope":[]},"anchorjs":{"enable":true,"element":"h1,h2,h3,h4,h5,h6","placement":"left","visible":"hover","icon":""},"progressbar":{"enable":true,"height_px":3,"color":"#29d","options":{"showSpinner":false,"trickleSpeed":100}},"code_language":{"enable":true,"default":"TEXT"},"copy_btn":true,"image_caption":{"enable":true},"image_zoom":{"enable":true,"img_url_replace":["",""]},"toc":{"enable":true,"placement":"right","headingSelector":"h1,h2,h3,h4,h5,h6","collapseDepth":0},"lazyload":{"enable":true,"loading_img":"https://picgo.ningh.net/images_hgxk/img/loading.gif","onlypost":false,"offset_factor":2},"web_analytics":{"enable":true,"follow_dnt":true,"baidu":null,"google":{"measurement_id":null},"tencent":{"sid":null,"cid":null},"leancloud":{"app_id":"zDKvyl7ruxUnQEVMBKmH1yzJ-gzGzoHsz","app_key":"bOZSobHb21Fmgqaba6nS9NZl","server_url":"https://zdkvyl7r.lc-cn-n1-shared.com","path":"window.location.pathname","ignore_local":false},"umami":{"src":null,"website_id":null,"domains":null,"start_time":"2024-01-01T00:00:00.000Z","token":null,"api_server":null}},"search_path":"/local-search.xml","include_content_in_search":true};
 
     if (CONFIG.web_analytics.follow_dnt) {
       var dntVal = navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack;
@@ -310,7 +310,7 @@
                 <h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>相信不少小伙伴都在使用 GitHub Pages 提供的免费静态网站托管来搭建自己的博客，但是因为特殊原因，使用 GitHub Pages 搭建的博客在国内访问速度极慢，因此很多小伙伴只能转战国内付费的服务器和 CDN。</p>
 <p>然而，国内的CDN都需要域名先备案，不然无法使用。使用CloudFlare的CDN服务在国内的访问速度也并不理想。终于，我找到了相对完美的解决方案，话不多说先上图：</p>
 <p><img src="https://picgo.ningh.net/images_hgxk/image.9dcvwsxpa9.webp" srcset="https://picgo.ningh.net/images_hgxk/img/loading.gif" lazyload alt="博客访问测速"></p>
-<p>博客地址：<a target="_blank" rel="noopener" href="http://blog.ningh.net/">http://blog.ningh.net</a> 欢迎各位小伙伴测速</p>
+<p>博客地址：<a href="http://blog.ningh.net/">http://blog.ningh.net</a> 欢迎各位小伙伴测速</p>
 <p>原理很简单，笔者使用了一台香港的云服务器，实现了简单的流量转发和缓存。并且使用免费的picx图床解决了Fluid主题用Typora插入图片时无法渲染的问题。实测访问速度极快。对原理不清楚的小伙伴请百度搜索 ”正向代理“。</p>
 <p>肯定有小伙伴要说，你都有香港云服务器了，你直接把博客部署到服务器上不就得?在这脱裤子放屁干嘛？原因很简单，之前购买云服务器的时候并没有想搭建博客，所以购买的配置非常低。我购买的是阿里云的香港云服务器，公网IP，1核CPU + 0.5G（实际上只有459MB）内存 + 20G硬盘的配置，每月200G的公网流量，五年只需270元，平均才4.2一个月。我觉得这样的配置无法支撑我的博客稳定运行五年，更何况在上面我还搭建了其他服务。</p>
 <p>不知道活动还有没有过期，这里附上服务器购买教程：<a target="_blank" rel="noopener" href="https://www.cnblogs.com/tolvip/p/18269541">https://www.cnblogs.com/tolvip/p/18269541</a></p>
@@ -412,7 +412,7 @@ python server.py<span aria-hidden="true" class="line-numbers-rows"><span></span>
 <p><img src="https://picgo.ningh.net/images_hgxk/image.1seysr1jwq.webp" srcset="https://picgo.ningh.net/images_hgxk/img/loading.gif" lazyload alt="启动服务"></p>
 <p>实测资源占用率极低：</p>
 <p><img src="https://picgo.ningh.net/images_hgxk/image.77dhb61io7.webp" srcset="https://picgo.ningh.net/images_hgxk/img/loading.gif" lazyload></p>
-<p>不会搭建的小伙伴也欢迎从<a target="_blank" rel="noopener" href="http://blog.ningh.net/about/">我的博客</a>加我微信进群交流哈！</p>
+<p>不会搭建的小伙伴也欢迎从<a href="http://blog.ningh.net/about/">我的博客</a>加我微信进群交流哈！</p>
 
                 
               </div>
@@ -431,7 +431,7 @@ python server.py<span aria-hidden="true" class="line-numbers-rows"><span></span>
   <div class="license-box my-3">
     <div class="license-title">
       <div>用成本最低的方式解决hexo博客部署在Gihub_Pages在国内访问慢的问题</div>
-      <div>http://example.com/2024/08/17/用成本最低的方式解决hexo博客部署在Gihub-Pages在国内访问慢的问题/</div>
+      <div>https://blog.ningh.net/2024/08/17/用成本最低的方式解决hexo博客部署在Gihub-Pages在国内访问慢的问题/</div>
     </div>
     <div class="license-meta">
       
