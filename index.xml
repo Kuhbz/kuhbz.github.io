@@ -9,8 +9,8 @@
     <title>使用Obisidian和Quartz 4编写博客</title>
     <link>https://ningh.net/blog-with-obsidian-quartz4</link>
     <guid>https://ningh.net/blog-with-obsidian-quartz4</guid>
-    <description><![CDATA[ 安装和配置Quartz 4 git clone github.com/Kuhbz/quartz.git cd quartz npm i npx quartz create Warning 我安装的是我修改后配置好后的版本，如果要安装官方的版本请把仓库地址替换为：github.com/jackyzha0/quartz.git Tip 无论是配置还是修改Quartz，都可以使用Claude Code或 Gemini CLI这种工具。 需要配置的插件 priority: 用于查询日期信息的数据源。优先级最高。可能值为&quot;frontmatter&quot;、&quot;git&quot;和&q... ]]></description>
-    <pubDate>Sat, 16 Aug 2025 09:35:55 GMT</pubDate>
+    <description><![CDATA[ 安装和配置Quartz 4 git clone github.com/Kuhbz/quartz.git cd quartz npm i npx quartz create Warning 我安装的是我修改后配置好后的版本，如果要安装官方的版本请把仓库地址替换为：github.com/jackyzha0/quartz.git 需要配置的插件 priority: 用于查询日期信息的数据源。优先级最高。可能值为&quot;frontmatter&quot;、&quot;git&quot;和&quot;filesystem&quot;。默认为[&quot;frontmatter&quot;, &quo... ]]></description>
+    <pubDate>Sat, 16 Aug 2025 09:43:18 GMT</pubDate>
   </item><item>
     <title>about</title>
     <link>https://ningh.net/about</link>
