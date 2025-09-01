@@ -6,16 +6,16 @@
       <description>最近的10条笔记 on Kuhbz的博客</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Python 基础</title>
+    <link>https://ningh.net/python-basic-syntax</link>
+    <guid>https://ningh.net/python-basic-syntax</guid>
+    <description><![CDATA[ 全面介绍Python解释器的多种执行方式、基本数据类型、控制流结构和函数定义，包含丰富的代码示例和实用技巧。 ]]></description>
+    <pubDate>Mon, 01 Sep 2025 06:59:24 GMT</pubDate>
+  </item><item>
     <title>解决Docker on WSL2网络代理问题</title>
     <link>https://ningh.net/docker-wsl2-network-proxy-solution</link>
     <guid>https://ningh.net/docker-wsl2-network-proxy-solution</guid>
     <description><![CDATA[ 详细分析Docker在WSL2环境下无法访问外部网络的问题，提供使用socat搭建端口转发的完整解决方案，实现容器通过Windows主机代理访问网络。 ]]></description>
-    <pubDate>Sun, 31 Aug 2025 08:00:44 GMT</pubDate>
-  </item><item>
-    <title>Python 基础语法与执行方式详解</title>
-    <link>https://ningh.net/python-basic-syntax-and-execution-methods</link>
-    <guid>https://ningh.net/python-basic-syntax-and-execution-methods</guid>
-    <description><![CDATA[ 全面介绍Python解释器的多种执行方式、基本数据类型、控制流结构和函数定义，包含丰富的代码示例和实用技巧。 ]]></description>
     <pubDate>Sun, 31 Aug 2025 08:00:44 GMT</pubDate>
   </item><item>
     <title>使用Obisidian和Quartz 4编写博客</title>
