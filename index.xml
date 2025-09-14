@@ -5,6 +5,42 @@
       <link>https://ningh.net</link>
       <description>最近的10条笔记 on Kuhbz的博客</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
-      
+      <item>
+    <title>友情链接</title>
+    <link>https://ningh.net/friends</link>
+    <guid>https://ningh.net/friends</guid>
+    <description><![CDATA[  Info 互换友链请在这个页面留言。留言时提供以下信息: 博客名称 博客链接 . ]]></description>
+    <pubDate>Sat, 06 Sep 2025 05:55:51 GMT</pubDate>
+  </item><item>
+    <title>将Claude Code的请求代理到Gemini</title>
+    <link>https://ningh.net/claude-code-proxy-gemini-free-use</link>
+    <guid>https://ningh.net/claude-code-proxy-gemini-free-use</guid>
+    <description><![CDATA[ 通过本文的详细教程，学习如何免费配置claude-code-proxy，将Claude Code的请求代理到Gemini，从而免费体验AI编程的强大功能。 ]]></description>
+    <pubDate>Sat, 06 Sep 2025 05:30:23 GMT</pubDate>
+  </item><item>
+    <title>WSL2 NAT模式代理配置指南</title>
+    <link>https://ningh.net/wsl2-nat-mode-proxy-configuration-guide</link>
+    <guid>https://ningh.net/wsl2-nat-mode-proxy-configuration-guide</guid>
+    <description><![CDATA[ 详细指南：从WSL2镜像网络模式回归NAT模式，配置Windows防火墙、WSL Shell和Docker代理环境，解决网络连接问题。 ]]></description>
+    <pubDate>Thu, 04 Sep 2025 05:50:54 GMT</pubDate>
+  </item><item>
+    <title>Python 基础</title>
+    <link>https://ningh.net/python-basic-syntax</link>
+    <guid>https://ningh.net/python-basic-syntax</guid>
+    <description><![CDATA[ 全面介绍Python解释器的多种执行方式、基本数据类型、控制流结构和函数定义，包含丰富的代码示例和实用技巧。 ]]></description>
+    <pubDate>Mon, 01 Sep 2025 06:59:24 GMT</pubDate>
+  </item><item>
+    <title>使用Obisidian和Quartz 4编写博客</title>
+    <link>https://ningh.net/blog-with-obsidian-quartz4</link>
+    <guid>https://ningh.net/blog-with-obsidian-quartz4</guid>
+    <description><![CDATA[ 本文介绍了如何使用Obisidian和Quartz 4编写博客 ]]></description>
+    <pubDate>Mon, 18 Aug 2025 05:53:08 GMT</pubDate>
+  </item><item>
+    <title>about</title>
+    <link>https://ningh.net/about</link>
+    <guid>https://ningh.net/about</guid>
+    <description><![CDATA[ 这是关于作者页面. ]]></description>
+    <pubDate>Sat, 16 Aug 2025 11:12:18 GMT</pubDate>
+  </item>
     </channel>
   </rss>
