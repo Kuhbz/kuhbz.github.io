@@ -1,1 +1,19 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"></urlset>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
+    <loc>https://ningh.net/about</loc>
+    <lastmod>2025-08-16T11:12:18.000Z</lastmod>
+  </url><url>
+    <loc>https://ningh.net/articles/blog-with-obsidian-quartz4</loc>
+    <lastmod>2025-09-19T10:42:57.000Z</lastmod>
+  </url><url>
+    <loc>https://ningh.net/articles/github-actions-docker-image-build</loc>
+    <lastmod>2025-09-19T10:42:57.000Z</lastmod>
+  </url><url>
+    <loc>https://ningh.net/articles/python-basic-syntax</loc>
+    <lastmod>2025-09-19T10:42:57.000Z</lastmod>
+  </url><url>
+    <loc>https://ningh.net/articles/wsl2-nat-mode-proxy-configuration-guide</loc>
+    <lastmod>2025-09-19T10:42:57.000Z</lastmod>
+  </url><url>
+    <loc>https://ningh.net/friends</loc>
+    <lastmod>2025-09-06T05:55:51.000Z</lastmod>
+  </url></urlset>
