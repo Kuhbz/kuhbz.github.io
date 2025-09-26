@@ -6,29 +6,35 @@
       <description>最近的10条笔记 on Kuhbz的博客</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>使用Obisidian和Quartz 4编写博客</title>
-    <link>https://ningh.net/articles/blog-with-obsidian-quartz4</link>
-    <guid>https://ningh.net/articles/blog-with-obsidian-quartz4</guid>
-    <description><![CDATA[ 本文介绍了如何使用Obisidian和Quartz 4编写博客 ]]></description>
-    <pubDate>Fri, 19 Sep 2025 10:42:57 GMT</pubDate>
-  </item><item>
     <title>利用 GitHub Actions 自动化 Docker 镜像构建与 GHCR 推送</title>
     <link>https://ningh.net/articles/github-actions-docker-image-build</link>
     <guid>https://ningh.net/articles/github-actions-docker-image-build</guid>
     <description><![CDATA[ 本文介绍如何利用 GitHub Actions、GitHub CLI 和 Claude Code，创建一个按需服务的 Docker 镜像构建中心，解决国内网络环境下的构建难题，并自动将镜像推送到 GitHub 容器镜像仓库 (GHCR)。 ]]></description>
-    <pubDate>Fri, 19 Sep 2025 10:42:57 GMT</pubDate>
+    <pubDate>Fri, 26 Sep 2025 06:28:24 GMT</pubDate>
   </item><item>
-    <title>Python 基础</title>
-    <link>https://ningh.net/articles/python-basic-syntax</link>
-    <guid>https://ningh.net/articles/python-basic-syntax</guid>
-    <description><![CDATA[ 全面介绍Python解释器的多种执行方式、基本数据类型、控制流结构和函数定义，包含丰富的代码示例和实用技巧。 ]]></description>
-    <pubDate>Fri, 19 Sep 2025 10:42:57 GMT</pubDate>
+    <title>SQLModel 快速入门</title>
+    <link>https://ningh.net/articles/sqlmodel-crud-quickstart</link>
+    <guid>https://ningh.net/articles/sqlmodel-crud-quickstart</guid>
+    <description><![CDATA[ 本 SQLModel 教程详细介绍了如何使用 Python ORM 进行数据库连接、表结构定义、以及数据的增删改查 (CRUD) 操作。适合 Python 开发者快速入门数据库编程。 ]]></description>
+    <pubDate>Fri, 26 Sep 2025 06:28:24 GMT</pubDate>
   </item><item>
     <title>WSL2 NAT模式代理配置指南</title>
     <link>https://ningh.net/articles/wsl2-nat-mode-proxy-configuration-guide</link>
     <guid>https://ningh.net/articles/wsl2-nat-mode-proxy-configuration-guide</guid>
     <description><![CDATA[ 详细指南：从WSL2镜像网络模式回归NAT模式，配置Windows防火墙、WSL Shell和Docker代理环境，解决网络连接问题。 ]]></description>
     <pubDate>Fri, 19 Sep 2025 10:42:57 GMT</pubDate>
+  </item><item>
+    <title>Python 基础</title>
+    <link>https://ningh.net/articles/python-basic-syntax</link>
+    <guid>https://ningh.net/articles/python-basic-syntax</guid>
+    <description><![CDATA[ 全面介绍Python解释器的多种执行方式、基本数据类型、控制流结构和函数定义，包含丰富的代码示例和实用技巧。 ]]></description>
+    <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>使用Obisidian和Quartz 4编写博客</title>
+    <link>https://ningh.net/articles/blog-with-obsidian-quartz4</link>
+    <guid>https://ningh.net/articles/blog-with-obsidian-quartz4</guid>
+    <description><![CDATA[ 本文介绍了如何使用Obisidian和Quartz 4编写博客 ]]></description>
+    <pubDate>Sun, 07 Sep 2025 00:00:00 GMT</pubDate>
   </item><item>
     <title>友情链接</title>
     <link>https://ningh.net/friends</link>
