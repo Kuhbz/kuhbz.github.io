@@ -6,6 +6,12 @@
       <description>最近的10条笔记 on Kuhbz的博客</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>NiceGUI快速入门</title>
+    <link>https://ningh.net/articles/nicegui-quickstart</link>
+    <guid>https://ningh.net/articles/nicegui-quickstart</guid>
+    <description><![CDATA[ 适合初学者的nicegui教程，包括UI元素、布局、数据绑定、事件处理、页面路由、样式控制（Tailwind CSS）以及部署，助你快速构建强大的Python GUI应用。 ]]></description>
+    <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
+  </item><item>
     <title>SQLModel 快速入门</title>
     <link>https://ningh.net/articles/sqlmodel-crud-quickstart</link>
     <guid>https://ningh.net/articles/sqlmodel-crud-quickstart</guid>
